@@ -1,0 +1,1 @@
+.buttons{display:flex;flex-direction:row}.buttons .btn{display:flex;align-items:center;margin-right:1rem}.buttons .btn:last-of-type{margin-right:0}.update-form{margin-top:50px}@media(max-width:720px){.update-form{margin-left:0!important;width:100%!important}}
